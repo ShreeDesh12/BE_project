@@ -1,0 +1,32 @@
+{
+    "name": "be_project",
+    "version": "1.0.0",
+    "description": "front end of be project 2021",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShreeDesh12/Image-to-voice.git"
+    },
+    "author": "Shreeniwas Deshpande",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ShreeDesh12/Image-to-voice/issues"
+    },
+    "homepage": "https://github.com/ShreeDesh12/Image-to-voice#readme",
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.2",
+        "bootstrap": "^4.6.0",
+        "font-awesome": "^4.7.0",
+        "fontawesome": "^5.6.3",
+        "jquery": "^3.6.0",
+        "popper.js": "^1.16.1"
+    },
+    "devDependencies": {
+        "lite-server": "^2.6.1"
+    }
+}
